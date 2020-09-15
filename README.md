@@ -891,3 +891,4 @@ questions.
 
 * [CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - An Variant calling pipeline implementing GATK best practices. 
 * [nf-core](http://nf-co.re/) - A community collection of production ready omics pipelines. 
+* [Nextflow Workshop 2018](https://nextflow-io.github.io/nf-hack18/training.html) - A workflow from [Centre for genomic regulation](https://www.crg.eu/)

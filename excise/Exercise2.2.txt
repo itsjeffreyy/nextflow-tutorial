@@ -1,0 +1,31 @@
+# tree -a work
+
+work/
+└── f8
+    └── 1c2ec57d9974b99b24f4f6cdf09975
+        ├── .command.begin
+        ├── .command.err
+        ├── .command.log
+        ├── .command.out
+        ├── .command.run
+        ├── .command.sh
+        ├── .exitcode
+        ├── index
+        │   ├── complete_ref_lens.bin
+        │   ├── ctable.bin
+        │   ├── ctg_offsets.bin
+        │   ├── duplicate_clusters.tsv
+        │   ├── info.json
+        │   ├── mphf.bin
+        │   ├── pos.bin
+        │   ├── pre_indexing.log
+        │   ├── rank.bin
+        │   ├── refAccumLengths.bin
+        │   ├── ref_indexing.log
+        │   ├── reflengths.bin
+        │   ├── refseq.bin
+        │   ├── seq.bin
+        │   └── versionInfo.json
+        └── transcriptome.fa -> /home/jeffreyy/project/nextflow-tutorial/excise/data/ggal/transcriptome.fa
+
+3 directories, 23 files
