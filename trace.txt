@@ -1,0 +1,7 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	75/de4e82	10902	index (ggal_1_48850000_49020000)	COMPLETED	0	2020-09-17 16:39:51.800	7.8s	1s	25.4%	9.8 MB	61.5 MB	217.2 KB	3.5 MB
+4	10/b841b0	11881	quant (ggal_liver)	COMPLETED	0	2020-09-17 16:39:59.796	7s	1s	39.4%	9.4 MB	61.5 MB	4.9 MB	16.5 KB
+5	ef/ffeeab	11870	quant (ggal_gut)	COMPLETED	0	2020-09-17 16:39:59.729	7.2s	1s	38.7%	9.3 MB	61.5 MB	4.9 MB	16.5 KB
+2	95/0c2733	10900	fastqc (FASTQC on ggal_liver)	COMPLETED	0	2020-09-17 16:39:51.781	20s	13.4s	58.8%	140.5 MB	1.5 GB	8 MB	1.9 MB
+3	9c/3c7a36	10894	fastqc (FASTQC on ggal_gut)	COMPLETED	0	2020-09-17 16:39:51.754	20.1s	13.4s	56.8%	140.3 MB	1.5 GB	8 MB	1.9 MB
+6	6a/0e41f3	13461	multiqc (featuring version 1.5)	COMPLETED	0	2020-09-17 16:40:11.838	8.6s	5s	50.3%	83.5 MB	364.5 MB	24.5 MB	2.9 MB
